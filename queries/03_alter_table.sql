@@ -1,1 +1,1 @@
-ALTER TABLE employees ADD COLUMN salary NUMBER(10,2);
+ALTER TABLE employees ADD COLUMN salary NUMBER(10,3);
